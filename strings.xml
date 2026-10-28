@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ZENO AI</string>
+    <string name="assistant_tagline">Native Personal Voice Assistant</string>
+    <string name="notification_channel_reminders">ZENO Reminders</string>
+    <string name="notification_channel_reminders_desc">Scheduled alerts and reminders created by ZENO AI</string>
+    <string name="notification_channel_service">ZENO Background Listening</string>
+    <string name="notification_channel_service_desc">Keeps voice assistant ready to listen</string>
+    <string name="service_active_title">ZENO AI is Active</string>
+    <string name="service_active_desc">Tap to speak or tap Stop to deactivate</string>
+    <string name="stop_service">Stop</string>
+</resources>

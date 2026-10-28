@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="zeno_black">#08090C</color>
+    <color name="zeno_surface">#10131A</color>
+    <color name="zeno_surface_variant">#181D27</color>
+    <color name="zeno_cyan">#00E5FF</color>
+    <color name="zeno_cyan_dark">#0097A7</color>
+    <color name="zeno_cyan_glow">#3300E5FF</color>
+    <color name="zeno_text_primary">#F0F4F8</color>
+    <color name="zeno_text_secondary">#8C9BAE</color>
+</resources>
